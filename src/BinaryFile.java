@@ -7,8 +7,6 @@
 //.jar file is read from the same progect folder as the .java files accessing it 
 //LogFile - creates .txt log file with a time stamp
 
-package assignment_4;
-
 import java.io.*;
 
 public class BinaryFile {
